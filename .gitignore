@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+**/.DS_Store
+*.ai
+*.pdf
+
+# Unneeded project folders
+Logistics/
+sessions/
+progress/
+finpeace-knowledge-base/
+web-workbook/
+
+# Heavy source PNG files (>5MB, tracked as JPG instead)
+sach-batc/tong-hop-minh-hoa/*.png
